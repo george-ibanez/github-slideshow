@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide My Princess!"
 ---
-Your text
+Great! we are on track!
 Use the left arrow to go back!
